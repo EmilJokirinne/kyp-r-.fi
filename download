@@ -1,0 +1,6 @@
+node_modules
+.next
+app
+public
+next-env.d.ts.bak
+*.tsbuildinfo
